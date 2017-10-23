@@ -8,11 +8,11 @@ The project progressed in 4 phases:
   * Network and Routing Protocols
   * HTML, XML, CGI Scripts
 * **Learning Python**
-  * Learned PHP and mySQL from Lynda
-   Here is the link 
+  * Learned PHP and mySQL from Lynda.
+  Here is the link
    https://github.com/NamanJain8/ACA/
   * Made a web-app WidgetCorp using basic PHP and mySQL and hosted it. In web-app, an authorised user can modify its content while an unauthorised user can only view its content.
-  Here is the link 
+  Here is the link
   http://namancorp.000webhostapp.com/
   
 * **Familiarised with Network Attacks**
@@ -21,7 +21,7 @@ The project progressed in 4 phases:
 
 * **Familiarisation with Cryptography**
   * Understood basics of cryptography
-  * Understood RSA algorithm- RSA is an algorithm used by modern computers to encrypt and decrypt messages. There are two different keys.One is Public key which is visible to everyone other one is Private key.  It utilises concepts from Number Theory. It is based on the fact that finding the factors of an integer is hard (the factoring problem).
+  * Understood RSA algorithm- **RSA** is an algorithm used by modern computers to encrypt and decrypt messages. There are two different keys.One is Public key which is visible to everyone other one is Private key.  It utilises concepts from Number Theory. It is based on the fact that finding the factors of an integer is hard (the factoring problem).
   
   
 #### Link to Github Repository
