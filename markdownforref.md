@@ -3,7 +3,7 @@
 Project was aimed at understanding various Network Technologies, learning and implementing PHP , understanding various types of network attacks and basics of cryptography.
 
 The project progressed in 4 phases:
-* **Network Technologies** - In this we viewed NPTEL Lectures(1-20) on Newtork Tehnologies which comprised of:
+* **Network Technologies** - In this we viewed NPTEL Lectures(1-20) on Newtork Technologies which comprised of:
   * Layering in Networks
   * Network and Routing Protocols
   * HTML, XML, CGI Scripts
