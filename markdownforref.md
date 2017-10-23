@@ -4,6 +4,6 @@ Project was aimed at understanding various Network Technologies, learning and im
 
 The project progressed in 4 phases:
 * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+  * Nested bullet
+  * Sub-nested bullet etc
+  * Bullet list item 2
