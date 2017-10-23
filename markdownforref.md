@@ -1,5 +1,5 @@
 # ACA Project Markdown File - Network Security
-##### *By Naman Jain(160427)*
+##### *Mentor*- *Nikhil Vanjani*
 Project was aimed at understanding various Network Technologies, learning and implementing PHP , understanding various types of network attacks and basics of cryptography.
 
 The project progressed in 4 phases:
@@ -23,6 +23,6 @@ The project progressed in 4 phases:
   * Understood basics of cryptography
   * Understood RSA algorithm- **RSA** is an algorithm used by modern computers to encrypt and decrypt messages. There are two different keys.One is Public key which is visible to everyone other one is Private key.  It utilises concepts from Number Theory. It is based on the fact that finding the factors of an integer is hard (the factoring problem).
   
-  
+
 #### Link to Github Repository
 https://github.com/NamanJain8/ACA
