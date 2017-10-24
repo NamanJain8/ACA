@@ -7,7 +7,7 @@ The project progressed in 4 phases:
   * Layering in Networks
   * Network and Routing Protocols
   * HTML, XML, CGI Scripts
-* **Learning Python**
+* **Learning PHP**
   * Learned PHP and mySQL from Lynda.
   Here is the link
    https://github.com/NamanJain8/ACA/
